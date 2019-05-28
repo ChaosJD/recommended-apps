@@ -11,7 +11,7 @@ https://youtu.be/hdTxCGzaxhE
 
 ### Apps 
 #### efficiency
-* notebloc
-* INKredible
-* HandWrite Pro
-* Stuff
+* [notebloc](https://play.google.com/store/apps/details?id=com.notebloc.app)
+* [INKredible](https://play.google.com/store/apps/details?id=com.viettran.INKredible)
+* [HandWrite Pro](https://play.google.com/store/apps/details?id=net.thoster.handwrite)
+* [Stuff](https://play.google.com/store/apps/details?id=com.stuff.todo)
