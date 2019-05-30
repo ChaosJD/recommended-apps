@@ -1,6 +1,10 @@
 # recommended-apps
 recommended Apps for Android etc
 
+## Raspberry Pi
+[Home Assistent](https://www.home-assistant.io/)
+
+
 ## Presentation
 [remark](https://remarkjs.com/#1)
 
