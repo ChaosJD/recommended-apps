@@ -38,6 +38,6 @@ Do you have problems with the terms look here:
 
 
 ##### German
-(itwissen.info)[https://www.itwissen.info/]
+[itwissen.info](https://www.itwissen.info/)
 
 ##### English
