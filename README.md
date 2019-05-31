@@ -28,7 +28,7 @@ https://youtu.be/hdTxCGzaxhE
 
 ## (Frameworks)[https://www.itwissen.info/Framework-framework.html] / (Apis)[https://www.itwissen.info/API-application-programming-interface-Programmierschnittstelle.html]
 * [symphony](https://symfony.com/what-is-symfony)
-* [jsonApi](https://jsonapi.org/]
+* (jsonApi)[https://jsonapi.org/]
 
 ## (Unix)[https://www.itwissen.info/Linux-Linux.html]
 * (astraLinux)[https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F]
