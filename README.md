@@ -24,18 +24,20 @@ https://youtu.be/hdTxCGzaxhE
 
 # Interesting
 ## Mockups for web
-(pencil)[https://www.chip.de/downloads/Pencil-fuer-Firefox_32625695.html]
+ [pencil](https://www.chip.de/downloads/Pencil-fuer-Firefox_32625695.html)
 
-## (Frameworks)[https://www.itwissen.info/Framework-framework.html] / (Apis)[https://www.itwissen.info/API-application-programming-interface-Programmierschnittstelle.html]
-* (symphony)[https://symfony.com/what-is-symfony]
-* (jsonApi)[https://jsonapi.org/]
+## Frameworks / Apis
+* [symphony](https://symfony.com/what-is-symfony)
+* [jsonApi](https://jsonapi.org/)
 
-## (Unix)[https://www.itwissen.info/Linux-Linux.html]
-* (astraLinux)[https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F]
+## Unix
+* [astraLinux](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F)
 
 <hr>
 Do you have problems with the terms look here:
-###### German
+
+
+##### German
 (itwissen.info)[https://www.itwissen.info/]
 
-###### English
+##### English
