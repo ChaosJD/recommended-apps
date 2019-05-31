@@ -1,14 +1,13 @@
 # recommended-apps
-recommended Apps for Android etc
-
-
+recommended Apps for Android etc<br>
 
 ## Raspberry Pi
 [Home Assistent](https://www.home-assistant.io/)
 
 
 ## Presentation
-[remark](https://remarkjs.com/#1)
+* [remark](https://remarkjs.com/#1)
+* [plant.uml ](http://plantuml.com/)
 
 ## Android
 ### Youtube
@@ -37,7 +36,6 @@ https://youtu.be/hdTxCGzaxhE
 
 <hr>
 Do you have problems with the terms look here:
-
 
 ##### German
 [itwissen.info](https://www.itwissen.info/)
