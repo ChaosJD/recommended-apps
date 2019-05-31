@@ -26,9 +26,9 @@ https://youtu.be/hdTxCGzaxhE
 ## Mockups for web
 [pencil](https://www.chip.de/downloads/Pencil-fuer-Firefox_32625695.html)
 
-## Framework
-[symphony](https://symfony.com/what-is-symfony)
-[jsonApi](https://jsonapi.org/]
+## (Frameworks)[https://www.itwissen.info/Framework-framework.html] / (Apis)[https://www.itwissen.info/API-application-programming-interface-Programmierschnittstelle.html]
+* [symphony](https://symfony.com/what-is-symfony)
+* [jsonApi](https://jsonapi.org/]
 
-## Linux
-(astraLinux)[https://www.heise.de/newsticker/meldung/Do-svidaniya-Windows-Russisches-Militaer-kann-komplett-auf-Astra-Linux-umsteigen-4435760.html]
+## (Unix)[https://www.itwissen.info/Linux-Linux.html]
+* (astraLinux)[https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F]
