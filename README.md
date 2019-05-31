@@ -30,6 +30,7 @@ https://youtu.be/hdTxCGzaxhE
 ## Frameworks / Apis
 * [symphony](https://symfony.com/what-is-symfony)
 * [jsonApi](https://jsonapi.org/)
+* [flutter](https://flutter.dev/)
 
 ## Unix
 * [astraLinux](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F)
