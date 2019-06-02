@@ -34,6 +34,9 @@ https://youtu.be/hdTxCGzaxhE
 ## Unix
 * [astraLinux](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fastralinux.ru%2Fproducts%2Fastra-linux-common-edition%2F)
 
+## OpenSourceProjects
+[googleProjects](https://opensource.google.com/projects/list/featured)
+
 <hr>
 Do you have problems with the terms look here:
 
